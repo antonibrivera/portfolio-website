@@ -262,6 +262,14 @@ section {
   cursor: pointer;
 }
 
+.contact-success {
+  color: #3C873A;
+}
+
+.contact-error {
+  color: #E44E2A;
+}
+
 /* ----- Not Found Styles -----  */
 
 .not-found-section header {
