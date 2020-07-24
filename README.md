@@ -8,11 +8,11 @@ Welcome to the GitHub repository for my portfolio website! Feel free to poke aro
 
 ![portfolio-demo](https://user-images.githubusercontent.com/26678591/88434493-46065a80-cdce-11ea-926a-d2fb2c60da16.gif)
 
-![shot1](https://user-images.githubusercontent.com/26678591/88434602-85cd4200-cdce-11ea-9632-69a0bc3c46b1.png)
+![shot1](https://user-images.githubusercontent.com/26678591/88434789-f5dbc800-cdce-11ea-892c-acef6767f34c.png)
 
-![shot2](https://user-images.githubusercontent.com/26678591/88434604-86fe6f00-cdce-11ea-9c3b-ee35d8660f56.png)
+![shot2](https://user-images.githubusercontent.com/26678591/88434810-fb391280-cdce-11ea-81a4-9c669860b179.png)
 
-![shot3](https://user-images.githubusercontent.com/26678591/88434606-882f9c00-cdce-11ea-8964-edf6c9c343b9.png)
+![shot3](https://user-images.githubusercontent.com/26678591/88434824-012ef380-cdcf-11ea-8f48-c8da48ddfb1b.png)
 
 
 ## Summary
