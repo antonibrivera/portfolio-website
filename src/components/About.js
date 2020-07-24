@@ -20,14 +20,16 @@ export default function About(props) {
         first time! Dealing with people worth thousands of dollars, and sometimes, millions of dollars,
         always had me on my A-game. Making everyone that visited feel welcome and pampered was important to me
         and I would make sure to reflect that when tending to and talking to every guest.
-        <br/><br/>I am a web developer and recent graduate of the Engineering Immersion bootcamp at Thinkful because
+        <br/><br/>I am a full-stack developer and recent graduate of the Engineering Immersion bootcamp at Thinkful.
         I find it most satisfying to be able to think up and implement an idea from nothing. Using code to
-        make something that can have an impact on even one person’s life brings me excitement. I geek out on
+        make something that can have an impact on even one person’s life brings me excitement. Having learned technologies
+        like React.js, Node.js, PostgreSQL, Agile/Scrum methodologies and more, I geek out on
         making back ends work and learning new tools and techniques. When I'm not coding, I enjoy spending
         time with those who matter most to me or learning new things I didn’t know before on any topic.
         As a lifelong learner, it’s important to me to be more knowledgeable than I was yesterday; a few of the
         things I learned over the years are playing the guitar and ukulele, different ways of life across the globe,
-        and how to speak Italian! 
+        and how to speak Italian. I'm excited to be using my skillset in an always-changing industry to see how far
+        I can push my boundaries as a developer!
       </p>
     </section>
   )
