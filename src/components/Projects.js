@@ -24,7 +24,13 @@ export default function Projects(props) {
     <section className="content-section">
       <header>
         <h1 className="projects-header">Projects</h1>
-        <p className="projects-subtitle">Here a list of the projects I'm most proud of! Feel free to visit the GitHub Repo and the Live Site with the links in the bottom right corner.</p>
+        <p className="projects-subtitle">
+          This website is a project in itself! Made with React.js and mobile-first CSS, this portfolio was deployed using Vercel to house the
+          projects I'm most proud of. 
+          <br/><br/>
+          Feel free to visit the <a href="https://github.com/antonibrivera/portfolio-website" target="_blank" rel="noopener noreferrer">GitHub Repo</a> to see how I made this website and look out for the links on the
+          bottom-right of each project to visit their GitHub repos and Live Apps!
+        </p>
       </header>
       <ul className="projects-list">
         {generateProjectItems(store.projects)}

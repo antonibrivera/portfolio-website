@@ -78,8 +78,8 @@ section {
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
-  color: #FFFFFF;
-  background-color: #6C979E;
+  color: #315c63;
+  background-color: #a0ecf8;
   padding: 5px 15px;
   border-radius: 3px;
   cursor: pointer;
@@ -217,7 +217,8 @@ section {
   margin-bottom: 30px;
 }
 
-.contact-header a {
+.contact-header a,
+.projects-subtitle a {
   text-decoration: none;
   color: #8DC9D3;
   cursor: pointer;
@@ -279,6 +280,12 @@ section {
 .not-found-emoji {
   font-size: 80px;
   margin: 20px auto;
+}
+
+.not-found-btn {
+  margin-top: 20px;
+  padding: 15px 30px;
+  font-size: 1.5rem;
 }
 
 /* ----- Error Page Styles ----- */
