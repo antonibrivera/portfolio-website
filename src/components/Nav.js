@@ -8,7 +8,7 @@ export default function Nav(props) {
         <h2>Joseph Rivera</h2>
         <h3>Full-Stack Developer</h3>
       </header>
-      <Link to='/' className='about-btn'>About</Link>
+      <Link to='/' className='home-btn'>Home</Link>
       <Link to='/projects' className='projects-btn'>Projects</Link>
       <Link to='/contact' className='contact-btn'>Contact</Link>
       <div className="desktop-site-socials">

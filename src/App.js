@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import MobileFooter from './components/MobileFooter';
-import About from './components/About';
+import Home from './components/Home';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import NotFound from './components/NotFound';
@@ -14,7 +14,7 @@ function App() {
       <ErrorPage>
         <Nav/>
         <Switch>
-          <Route exact path='/' component={About} />
+          <Route exact path='/' component={Home} />
           <Route exact path='/projects' component={Projects} />
           <Route exact path='/contact' component={Contact} />
           <Route component={NotFound} />
