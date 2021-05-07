@@ -1,6 +1,6 @@
 import React from 'react';
 import store from '../store';
-import ProjectItem from './ProjectItem';
+import ProjectItem from '../components/ProjectItem';
 
 export default function Projects(props) {
 

@@ -2,11 +2,11 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import MobileFooter from './components/MobileFooter';
-import Home from './components/Home';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import NotFound from './components/NotFound';
-import ErrorPage from './components/ErrorPage';
+import Home from './pages/Home';
+import Projects from './pages/Projects';
+import Contact from './pages/Contact';
+import NotFound from './pages/NotFound';
+import ErrorPage from './pages/ErrorPage';
 
 function App() {
   return (
